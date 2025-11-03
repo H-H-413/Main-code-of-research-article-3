@@ -177,7 +177,7 @@ torch==2.3.0
 torchdata==0.7.1
 torchinfo==1.8.0
 torchvision==0.18.0
-tornado==6.2
+tornado==6.5
 tqdm==4.64.1
 traitlets==5.3.0
 tslearn==0.6.3
